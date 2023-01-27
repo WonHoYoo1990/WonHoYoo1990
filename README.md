@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=WonHoYoo1990&fontSize=90&animation=twinkling)
 
 ### Hi there 👋
-### I'm Yoo Won Ho, a new developer. I will become a developer who learns hard.😄
+### I'm Yoo Won Ho, a new developer. I will become a developer who learns hard.😄 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonHoYoo1990&show_icons=true&theme=dark)
 
