@@ -3,8 +3,13 @@
 ### Hi there 👋
 ### I'm Yoo Won Ho, a new developer. I will become a developer who learns hard.😄 
 
+<h1> Github Status </h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonHoYoo1990&show_icons=true&theme=dark)
 
+
+
+<h1>⚡Skill </h1>
 
 <div>
     <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
@@ -17,7 +22,8 @@
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 </div>
 
-
+<h1> 🌱 Experience </h1>
+2022.08 ~ 2023.01 KH 정보 교육원 (디지털컨버전스)자바(JAVA)기반 공공데이터 융합 개발자 양성과정 수료
 
 
 
