@@ -7,20 +7,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonHoYoo1990&show_icons=true&theme=dark)
 
-### Most Used Languages
+<h1> Most Used Languages </h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonHoYoo1990&layout=compact&card_width=445&hide=html&theme=dark)](https://github.com/WonHoYoo1990/github-readme-stats)
 
-## Top Repositories
+<h1> Top Repositories </h1>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WonHoYoo1990&repo=openDataProject_01&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/openDataProject_01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WonHoYoo1990&repo=Algorithms&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/Algorithms)
 
-
-
-
-
-
 <h1>⚡Skill </h1>
-
 <div>
     <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
     <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
