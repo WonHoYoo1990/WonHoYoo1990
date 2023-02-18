@@ -7,6 +7,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonHoYoo1990&show_icons=true&theme=dark)
 
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonHoYoo1990&layout=compact&card_width=445&hide=html&theme=dark)](https://github.com/WonHoYoo1990/github-readme-stats)
+
+## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WonHoYoo1990&repo=openDataProject_01&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/openDataProject_01)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WonHoYoo1990&repo=Algorithms&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/Algorithms)
+
+
+
+
 
 
 <h1>⚡Skill </h1>
