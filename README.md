@@ -5,16 +5,16 @@
 
 <h1> Github Status </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonHoYoo1990&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WonHoYoo1990&show_icons=true&theme=dark)
 
 <h1> Most Used Languages </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonHoYoo1990&layout=compact&card_width=445&hide=html&theme=dark)](https://github.com/WonHoYoo1990/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WonHoYoo1990&layout=compact&card_width=445&hide=html&theme=dark)](https://github.com/WonHoYoo1990/github-readme-stats)
 
 <h1> Top Repositories </h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WonHoYoo1990&repo=openDataProject_01&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/openDataProject_01)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WonHoYoo1990&repo=Algorithms&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/Algorithms)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WonHoYoo1990&repo=openDataProject_01&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/openDataProject_01)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WonHoYoo1990&repo=Algorithms&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/Algorithms)
 
 <h1>⚡Skill </h1>
 <div>
