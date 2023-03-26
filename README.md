@@ -15,6 +15,7 @@
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WonHoYoo1990&repo=openDataProject_01&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/openDataProject_01)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WonHoYoo1990&repo=Algorithms&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/Algorithms)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WonHoYoo1990&repo=CodingTest&show_owner=true&theme=dark)](https://github.com/WonHoYoo1990/CodingTest)
 
 <h1>⚡Skill </h1>
 <div>
